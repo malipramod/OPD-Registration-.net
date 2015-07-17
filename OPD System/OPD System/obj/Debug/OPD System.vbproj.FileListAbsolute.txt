@@ -1,0 +1,52 @@
+D:\OPD System\OPD System\OPD System\bin\Debug\OPD System.exe
+D:\OPD System\OPD System\OPD System\bin\Debug\OPD System.pdb
+D:\OPD System\OPD System\OPD System\bin\Debug\OPD System.xml
+D:\OPD System\OPD System\OPD System\obj\Debug\ResolveAssemblyReference.cache
+D:\OPD System\OPD System\OPD System\obj\Debug\OPD_System.FrmOPDManagement.resources
+D:\OPD System\OPD System\OPD System\obj\Debug\OPD_System.Resources.resources
+D:\OPD System\OPD System\OPD System\obj\Debug\OPD System.vbproj.GenerateResource.Cache
+D:\OPD System\OPD System\OPD System\obj\Debug\OPD System.exe
+D:\OPD System\OPD System\OPD System\obj\Debug\OPD System.xml
+D:\OPD System\OPD System\OPD System\obj\Debug\OPD System.pdb
+D:\OPD System\OPD System\OPD System\obj\Debug\OPD_System.FrmDisplay.resources
+D:\OPD System\OPD System\OPD System\obj\Debug\OPD_System.FrmEditPatientRegistration.resources
+D:\OPD System\OPD System\OPD System\obj\Debug\OPD_System.FrmLoginForm.resources
+D:\OPD System\OPD System\OPD System\obj\Debug\OPD_System.FrmPatientRegistration.resources
+D:\OPD System\OPD System\OPD System\obj\Debug\OPD_System.FrmUserReg.resources
+D:\OPD System\OPD System\OPD System\obj\Debug\OPD_System.FrmEditPatientRegistration.af-ZA.resources
+D:\OPD System\OPD System\OPD System\obj\Debug\OPD_System.FrmPatientRegistration.af-ZA.resources
+D:\OPD System\OPD System\OPD System\bin\Debug\af-ZA\OPD System.resources.dll
+D:\OPD System\OPD System\OPD System\obj\Debug\af-ZA\OPD System.resources.dll
+D:\OPD System\OPD System\OPD System\obj\Debug\OPD_System.FrmMessage.resources
+D:\OPD System\OPD System\OPD System\obj\Debug\OPD_System.FrmChangePassword.resources
+D:\OPD System\OPD System\OPD System\obj\Debug\OPD_System.frmEditUserReg.resources
+D:\OPD System\OPD System\OPD System\obj\Debug\OPD_System.frmPatientDetails.resources
+D:\OPD System\OPD System\OPD System\bin\Debug\OPD System.exe.config
+I:\OPD System\OPD System\OPD System\bin\Debug\OPD System.exe.config
+I:\OPD System\OPD System\OPD System\obj\Debug\OPD System.exe
+I:\OPD System\OPD System\OPD System\obj\Debug\OPD System.xml
+I:\OPD System\OPD System\OPD System\obj\Debug\OPD System.pdb
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\OPD System\OPD System\OPD System\bin\Debug\OPD System.exe.config
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\OPD System\OPD System\OPD System\obj\Debug\OPD System.exe
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\OPD System\OPD System\OPD System\obj\Debug\OPD System.xml
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\OPD System\OPD System\OPD System\obj\Debug\OPD System.pdb
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\OPD System\OPD System\OPD System\bin\Debug\OPD System.exe
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\OPD System\OPD System\OPD System\bin\Debug\OPD System.pdb
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\OPD System\OPD System\OPD System\bin\Debug\OPD System.xml
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\OPD System\OPD System\OPD System\bin\Debug\af-ZA\OPD System.resources.dll
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\OPD System\OPD System\OPD System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\OPD System\OPD System\OPD System\obj\Debug\OPD_System.FrmEditPatientRegistration.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\OPD System\OPD System\OPD System\obj\Debug\OPD_System.FrmChangePassword.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\OPD System\OPD System\OPD System\obj\Debug\OPD_System.FrmDisplay.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\OPD System\OPD System\OPD System\obj\Debug\OPD_System.frmEditUserReg.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\OPD System\OPD System\OPD System\obj\Debug\OPD_System.FrmOPDManagement.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\OPD System\OPD System\OPD System\obj\Debug\OPD_System.FrmLoginForm.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\OPD System\OPD System\OPD System\obj\Debug\OPD_System.frmPatientDetails.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\OPD System\OPD System\OPD System\obj\Debug\OPD_System.FrmPatientRegistration.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\OPD System\OPD System\OPD System\obj\Debug\OPD_System.FrmMessage.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\OPD System\OPD System\OPD System\obj\Debug\OPD_System.FrmUserReg.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\OPD System\OPD System\OPD System\obj\Debug\OPD_System.Resources.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\OPD System\OPD System\OPD System\obj\Debug\OPD_System.FrmEditPatientRegistration.af-ZA.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\OPD System\OPD System\OPD System\obj\Debug\OPD_System.FrmPatientRegistration.af-ZA.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\OPD System\OPD System\OPD System\obj\Debug\OPD System.vbproj.GenerateResource.Cache
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\OPD System\OPD System\OPD System\obj\Debug\af-ZA\OPD System.resources.dll
